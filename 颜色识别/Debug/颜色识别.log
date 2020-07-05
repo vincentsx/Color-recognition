@@ -1,0 +1,19 @@
+﻿生成启动时间为 2019/1/19 11:55:30。
+     1>项目“F:\高端操作\颜色识别\颜色识别\颜色识别.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\颜色识别.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt "颜色识别.cpp"
+         颜色识别.cpp
+     1>f:\高端操作\颜色识别\颜色识别\颜色识别.cpp(2): warning C4627: “#include <opencv2/opencv.hpp>”: 在查找预编译头使用时跳过
+         f:\高端操作\颜色识别\颜色识别\颜色识别.cpp(2): note: 将指令添加到“stdafx.h”或重新生成预编译头
+     1>f:\高端操作\颜色识别\颜色识别\颜色识别.cpp(3): warning C4627: “#include <opencv2/highgui/highgui.hpp>”: 在查找预编译头使用时跳过
+         f:\高端操作\颜色识别\颜色识别\颜色识别.cpp(3): note: 将指令添加到“stdafx.h”或重新生成预编译头
+     1>f:\高端操作\颜色识别\颜色识别\颜色识别.cpp(4): warning C4627: “#include <opencv2/imgproc/imgproc.hpp>”: 在查找预编译头使用时跳过
+         f:\高端操作\颜色识别\颜色识别\颜色识别.cpp(4): note: 将指令添加到“stdafx.h”或重新生成预编译头
+     1>f:\高端操作\颜色识别\颜色识别\颜色识别.cpp(5): warning C4627: “#include <iostream>”: 在查找预编译头使用时跳过
+         f:\高端操作\颜色识别\颜色识别\颜色识别.cpp(5): note: 将指令添加到“stdafx.h”或重新生成预编译头
+     1>f:\高端操作\颜色识别\颜色识别\颜色识别.cpp(142): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+     1>已完成生成项目“F:\高端操作\颜色识别\颜色识别\颜色识别.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.34
